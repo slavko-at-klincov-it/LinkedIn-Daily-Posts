@@ -165,3 +165,24 @@ Ergebnis: Die Bibliothek sortiert sich „von selbst", Suche funktioniert endlic
 
 Frage in die Runde: Könnte man damit endlich dem Thema „gleiche Files -- anderer Name" adieu sagen?
 Quellen: []
+
+## Post 9 - 2026-01-06
+Thema: Power Automate Governance
+Text:
+Power Automate ist nicht die Gefahr – es ist einer der größten Hebel in Unternehmen die Microsoft verwenden, um manuelle Arbeit abzuschaffen, Prozesse messbar zu machen und Skalierung ohne zusätzliche FTEs zu schaffen.
+
+Die eigentliche Gefahr entsteht, wenn Automatisierung unbemerkt wächst, niemand den Überblick behält und dadurch unkontrollierte Schatten-IT rund um kritische Geschäftsprozesse entsteht.
+
+Ein schlauer Mann hat einmal zu mir gesagt: „Schatten-IT ist es nur dann, wenn ich nichts davon weiß" – und genau so fühlt sich ungeplante Power-Automate-Landschaft in vielen Unternehmen an.
+
+Parallel werden mit AI-first-Features wie generativen Aktionen und Process Mining immer öfter Geschäftsentscheidungen auf Basis von Automationsdaten getroffen. Ohne klare Verantwortlichkeiten ist das brandgefährlich.
+
+Die wichtigsten Punkte:
+📌 Definiert pro Environment klare Zwecke, Security-Groups und Lifecycle statt „Default-Umgebung für alles".
+
+✅ Nutzt DLP-Richtlinien, um Business- und Non-Business-Connectoren hart zu trennen – besonders bei Cloud-Speichern und KI-Services.
+
+🎯 Etabliert ein CoE, das Trainings, Guardrails und Monitoring für Flows, Desktop-Automation und Process Mining übernimmt.
+
+Wie streng steuert ihr Power Automate aktuell – eher „Experimentierwiese" oder schon „kontrollierte Automationsplattform"?
+Quellen: [https://learn.microsoft.com/de-de/power-platform/guidance/adoption/admin-best-practices, https://learn.microsoft.com/de-de/power-platform/release-plan/2025wave1/power-automate/]
