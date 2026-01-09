@@ -186,3 +186,20 @@ Die wichtigsten Punkte:
 
 Wie streng steuert ihr Power Automate aktuell – eher „Experimentierwiese" oder schon „kontrollierte Automationsplattform"?
 Quellen: [https://learn.microsoft.com/de-de/power-platform/guidance/adoption/admin-best-practices, https://learn.microsoft.com/de-de/power-platform/release-plan/2025wave1/power-automate/]
+
+## Post 10 - 2026-01-09
+Thema: Power Automate vs n8n
+Text:
+Wenn Compliance dein KPI ist, dann schlägt Power Automate, n8n.
+Wenn du nicht an Microsoft gekettet sein willst dann...
+
+ist die Frage, wem vertraust du mehr – Microsoft oder dir selbst?
+
+Power Automate spielt seine Stärke aus, wenn DLP, Environments und zentrale Admin-Governance wirklich durchgezogen werden.
+
+n8n punktet, wenn du Portabilität und maximale Integrationsfreiheit willst – und bereit bist, Security/Ops selbst zu tragen.
+
+Das "bessere" Tool gibt es nicht. Es gibt nur: Passt dein Risikoprofil zur Architektur-Entscheidung?
+
+Meine Frage an euch: Was wiegt bei euch schwerer – die Angst vor Datenabfluss oder die Angst vor Abhängigkeit?
+Quellen: []
