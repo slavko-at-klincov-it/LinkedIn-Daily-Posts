@@ -203,3 +203,145 @@ Das "bessere" Tool gibt es nicht. Es gibt nur: Passt dein Risikoprofil zur Archi
 
 Meine Frage an euch: Was wiegt bei euch schwerer – die Angst vor Datenabfluss oder die Angst vor Abhängigkeit?
 Quellen: []
+
+## Post 11 - 2026-01-13
+Thema: Power Platform ROI
+Text:
+Ihr nutzt Microsoft Teams und Word? Dann habt ihr bereits einen ROI‑Hebel im Haus und nutzt ihn nicht mal konsequent….
+
+Denn das Problem ist selten „fehlende Use Cases".
+
+Was meistens fehlt, sind Commitment, Awareness und eine strategische Klammer, die Nutzen messbar macht.
+
+Die Power Platform ist nicht „noch ein Tool".
+Sie ist ein Service, den viele ohnehin schon bezahlen.
+
+Richtig aufgesetzt kann sie eure interne Produktivitäts- und Automations‑Factory werden, aber nur, wenn ihr sie wie ein Investment führt (Governance, Enablement, Portfolio, Reporting).
+
+Management entscheidet nicht über „nice to have".
+
+Management entscheidet über Wirkung: schneller, günstiger, weniger Risiko.
+
+Ein paar belastbare Zahlen aus einer Forrester TEI‑Studie zur Power Platform (Composite Organization, 3 Jahre):
+
+• Forrester bewertet Power Platform mit 224% ROI (über 3 Jahre, Composite Organization).
+• 38% des Gesamtnutzens kommen aus Zeitersparnis durch neue Lösungen.
+• 37% des Nutzens sind vermiedene Entwicklungs-/IT-Kosten.
+• Die restlichen 25% verteilen sich auf schnelleres Time-to-Value (13%) und operative Kosteneinsparungen (12%).
+
+Mein Punkt: „Empowerment" funktioniert nur mit Leitplanken.
+
+Mit Governance + Enablement + einem Portfolio‑Setup, das im Vorstand als Investment verstanden wird — nicht als Tool-Spielwiese.
+Quellen: []
+
+## Post 12 - 2026-01-20
+Thema: Power Automate Governance und AI-Agents
+Text:
+Power Automate ist inzwischen das Betriebssystem für eure Business-Automation. Wer hier schläft, zahlt später Governance-Strafzinsen.
+
+Viele Teams hängen noch in „Einzelflow-Experimenten", während Microsoft längst Richtung AI‑Agents, Process Mining und Copilot-native Automatisierung marschiert.
+
+Heißt das ihr müsst auch dort hin? Nein.
+
+Parallel jedoch explodiert das Risiko durch unkontrollierte Connector-Nutzung und fehlende DLP-Strategie.
+
+Die wichtigsten Punkte:
+
+Ohne klare Environments + DLP wird Power Automate schnell zum Schatten-ERP mit Datenleck-Potenzial.
+
+Copilot, Process Mining und AI-Agents bringen echten Mehrwert – aber nur, wenn Governance, Monitoring und Ownership vorab definiert sind.
+
+Wer Automation wie ein Produkt managt sollte sich definieren durch Roadmaps, Security-Defaults, Center of Excellence statt „Flow-Wildwuchs".
+
+Aber kennt ihr ja alles schon. Wenn es dann brennt ist es zu spät einen Rauchmelder auf Amazon zu bestellen oder über einen Feuerlöscher nachzudenken.
+Quellen: [https://lnkd.in/dmtVKm9z, https://lnkd.in/ddhPbkHz]
+
+## Post 13 - 2026-01-21
+Thema: Power Platform Security Golden Rules
+Text:
+🔐 10 Golden Rules for Power Platform Security
+
+Power Platform makes it incredibly easy to build apps and automations — but without the right guardrails, things can get messy fast.
+
+This visual sums up the security fundamentals every tenant should follow 👇
+
+✅ Separate Dev / Test / Prod environments
+✅ Lock down who can create apps, flows, and connectors
+✅ Apply least privilege everywhere
+✅ Protect the Default environment (it's not your playground)
+✅ Enforce DLP policies across all environments
+✅ Secure connections, gateways, and credentials
+✅ Monitor & audit continuously (logs matter)
+✅ Govern custom connectors properly
+✅ Review sharing & guest access regularly
+✅ Educate makers — security is a shared responsibility
+
+💡 Power Platform security isn't about slowing makers down.
+It's about scaling safely while keeping innovation fast.
+
+If you're running Power Platform at scale (or planning to), these rules are non-negotiable.
+
+What's the #1 security mistake you still see most often in Power Platform tenants? 👀👇
+Quellen: []
+
+## Post 14 - 2026-01-27
+Thema: M365 Insider Agent und Roadmap-Governance
+Text:
+Die M365-Roadmap ist toll, aber hand aufs herz, keiner hat Zeit, sie täglich zu lesen…
+
+Der „M365 Insider"-Agent dreht den Spieß um, du fragst, die Roadmap antwortet.
+
+In der Community taucht gerade ein Open-Source-Agent auf, der direkt an die Roadmap-Daten andockt.
+
+Statt Release Notes zu „monitoren", wird Roadmap zu einem Chat/Agent-Use-Case.
+
+Das ist nicht nur „nice to have" das ist ein Governance-Thema: Wer erkennt früh genug Impact auf Copilot, Teams, Excel & Co?
+
+Bedeutet für uns/euch/mich/Zsabrina:
+
+Weniger Blindflug: Roadmap-Items gezielt nach Workload/Tags/Quartal abfragen statt manuell filtern.
+
+Früherer Impact-Check: „Was betrifft Copilot/Excel/Teams?" als wiederholbare Frage in Meetings & Change Boards.
+
+Automatisierbar: Roadmap-Daten sind per REST abrufbar, also ideal für eigene Automationen und Agent-Patterns.
+
+Worauf wartet ihr noch, hopp, hopp macht euch ein eigens Bild!
+Quellen: [https://lnkd.in/dEMhM8Vp, https://lnkd.in/dnMJesRs, https://lnkd.in/drUUnwUb]
+
+## Post 15 - 2026-01-27
+Thema: Digitale Gewohnheiten und Smartphone-Nutzung
+Text:
+Moderne Kommunikation in der U-Bahn, ein Reality Check 📱
+
+POV, heute Morgen in der Wiener U-Bahn auf dem Weg ins Büro. Eine Szene, die unseren Alltag perfekt zusammenfasst.
+
+Links: Eine Frau telefoniert konzentriert, nur leider spricht sie in den Hörer statt ins Mikrofon am unteren Ende des Smartphones, noch dazu versucht sie zu flüstern. Ihr:e Gesprächspartner:In am anderen Ende der Leitung fragt sich vermutlich gerade, warum sie so leise klingt.
+
+Rechts: Ein Mann, komplett in sein Handy vertieft, regelrecht in sich zusammengesunken. Die Körperhaltung einer Generation, die ihre ganze Welt auf 6 Zoll Display erlebt.
+
+Was sagt uns das?
+
+Wir sind so sehr mit unseren Devices verschmolzen, dass wir manchmal vergessen, wie sie überhaupt funktionieren. Gleichzeitig schaffen wir uns unsere eigenen digitalen Schutzblasen, abgeschottet von allem um uns herum.
+
+Die Frage ist: Verpassen wir dabei nicht manchmal das Wesentliche?
+Quellen: []
+
+## Post 16 - 2026-01-27
+Thema: Global Power Platform Bootcamp 2026 Wien
+Text:
+Essen, trinken, Power Platform und ein atemberaubender Blick über Wien – klingt nach einem perfekten Freitag!
+
+Am 20. Februar darf ich mit ganz vielen anderen tollen Kollegen:Innen beim Global Power Platform Bootcamp 2026 im DC Tower als Speaker vortragen.
+
+Und nein, es wird keine Folienschlacht – sondern Live-Demos, echte Einblicke, Diskussionen und hoffentlich der ein oder andere Aha-Moment! 💡
+
+Das Bootcamp ist kostenlos, vollgepackt mit über 15 Sessions und wird von der Community für die Community gemacht.
+
+Hier trifft sich, wer die Power Platform nicht nur nutzt sondern sie auch verstehen möchte oder sie aufs nächste Level bringen möchte.
+
+Also: Wer am 20. Februar noch nichts vorhat und Lust auf inspirierende Gespräche, praktisches Wissen und guten Kaffee hat – jetzt anmelden! ☕
+
+🔗 www.appe.at/bootcamp
+
+Wir sehen uns über den Dächern von Wien! 🚀
+Quellen: [https://lnkd.in/d3WgrnkW]
